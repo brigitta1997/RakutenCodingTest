@@ -1,6 +1,6 @@
 while True:
 
-    productIdStr = input("Enter ProductId: ")
+    productIdStr = input("Enter Product ID: ")
 
     #trim productId
     productIdStr = productIdStr[3:]
